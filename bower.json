@@ -1,0 +1,19 @@
+{
+  "name": "divPainter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/martinj96/divPainter",
+  "authors": [
+    "martinj96 <martinjosifoski@yahoo.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
